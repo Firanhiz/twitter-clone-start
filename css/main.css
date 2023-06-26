@@ -109,3 +109,25 @@ body, html {
     display: flex;
     align-items: center;
 }
+
+.container-content-header {
+    display: flex;
+}
+
+.html-editor {
+    width: 100%;
+    min-height: 40px;
+    border: none;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: #6E767D;
+}
+
+.html-editor:focus {
+    outline: none;
+}
+
+.html-editor span {
+    pointer-events: none;
+}

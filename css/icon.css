@@ -58,6 +58,31 @@
     
 }
 
+.icon-timeline {
+    background-image: url(../icons/Timeline-Prop.svg);
+    
+}
+
+.icon-emoji {
+    background-image: url(../icons/Emoji.svg);   
+}
+
+.icon-gif {
+    background-image: url(../icons/Gif.svg);   
+}
+
+.icon-media {
+    background-image: url(../icons/Media.svg);   
+}
+
+.icon-poll {
+    background-image: url(../icons/Poll.svg);   
+}
+
+.icon-schedule {
+    background-image: url(../icons/Schedule.svg);   
+}
+
 
 
 
