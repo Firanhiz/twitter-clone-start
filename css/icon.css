@@ -54,8 +54,8 @@
 }
 
 .icon-ellipse-v {
-    background-image: url(../icons/More.svg);
-    
+    background-image: url(../icons/More-2.svg);
+
 }
 
 .icon-timeline {
@@ -83,7 +83,33 @@
     background-image: url(../icons/Schedule.svg);   
 }
 
+.icon-verified {
+    background-image: url(../icons/Verified.svg);   
+}
 
+.icon-reply {
+    background-image: url(../icons/Reply.svg);   
+}
+
+.icon-retweet {
+    background-image: url(../icons/Retweet.svg);   
+}
+
+.icon-react {
+    background-image: url(../icons/React.svg);   
+}
+
+.icon-share {
+    background-image: url(../icons/Share.svg);   
+}
+
+.icon-search {
+    background-image: url(../icons/Search.svg);   
+}
+
+.icon-settings {
+    background-image: url(../icons/Settings.svg);   
+}
 
 
 
