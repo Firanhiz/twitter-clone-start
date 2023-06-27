@@ -14,101 +14,107 @@
 }
 
 .icon-home {
-    background-image: url(../icons/Home-Fill.svg);
+    background-image: url(../icons/home-fill.svg);
     
 }
 
 .icon-explore {
-    background-image: url(../icons/Explore.svg);
+    background-image: url(../icons/explore.svg);
     
 }
 
 .icon-notification {
-    background-image: url(../icons/Notifications.svg);
+    background-image: url(../icons/notifications.svg);
     
 }
 
 .icon-message {
-    background-image: url(../icons/Messages.svg);
+    background-image: url(../icons/messages.svg);
     
 }
 
 .icon-bookmark {
-    background-image: url(../icons/Bookmarks.svg);
+    background-image: url(../icons/bookmarks.svg);
     
 }
 
 .icon-list {
-    background-image: url(../icons/Lists.svg);
+    background-image: url(../icons/lists.svg);
     
 }
 
 .icon-profile {
-    background-image: url(../icons/Profile.svg);
+    background-image: url(../icons/profile.svg);
     
 }
 
 .icon-more {
-    background-image: url(../icons/More.svg);
+    background-image: url(../icons/more.svg);
     
 }
 
+.icon-private {
+    background-image: url(../icons/private.svg);
+    width: 20px;
+    height: 20px;
+}
+
 .icon-ellipse-v {
-    background-image: url(../icons/More-2.svg);
+    background-image: url(../icons/more-2.svg);
 
 }
 
 .icon-timeline {
-    background-image: url(../icons/Timeline-Prop.svg);
+    background-image: url(../icons/timeline-prop.svg);
     
 }
 
 .icon-emoji {
-    background-image: url(../icons/Emoji.svg);   
+    background-image: url(../icons/emoji.svg);   
 }
 
 .icon-gif {
-    background-image: url(../icons/Gif.svg);   
+    background-image: url(../icons/gif.svg);   
 }
 
 .icon-media {
-    background-image: url(../icons/Media.svg);   
+    background-image: url(../icons/media.svg);   
 }
 
 .icon-poll {
-    background-image: url(../icons/Poll.svg);   
+    background-image: url(../icons/poll.svg);   
 }
 
 .icon-schedule {
-    background-image: url(../icons/Schedule.svg);   
+    background-image: url(../icons/schedule.svg);   
 }
 
 .icon-verified {
-    background-image: url(../icons/Verified.svg);   
+    background-image: url(../icons/verified.svg);   
 }
 
 .icon-reply {
-    background-image: url(../icons/Reply.svg);   
+    background-image: url(../icons/reply.svg);   
 }
 
 .icon-retweet {
-    background-image: url(../icons/Retweet.svg);   
+    background-image: url(../icons/retweet.svg);   
 }
 
 .icon-react {
-    background-image: url(../icons/React.svg);   
+    background-image: url(../icons/react.svg);   
 }
 
 .icon-share {
-    background-image: url(../icons/Share.svg);   
+    background-image: url(../icons/share.svg);   
 }
 
 .icon-search {
-    background-image: url(../icons/Search.svg);   
+    background-image: url(../icons/search.svg);   
 }
 
 .icon-settings {
-    background-image: url(../icons/Settings.svg);   
+    background-image: url(../icons/settings.svg);   
 }
 
 
